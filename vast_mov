@@ -14,7 +14,7 @@
             <MediaFiles>
               <MediaFile
                 delivery="progressive"
-                type="video/mp4"
+                type="video/quicktime"
                 scalable="true"
                 maintainAspectRatio="true"
                 width="1920"
