@@ -9,7 +9,7 @@
           <Linear skipoffset="00:00:05">
             <Duration>00:00:30</Duration>
             <VideoClicks>
-              <ClickThrough><![CDATA[ ]]></ClickThrough>
+              <ClickThrough><![CDATA[ https://example.com ]]></ClickThrough>
             </VideoClicks>
             <MediaFiles>
               <MediaFile
