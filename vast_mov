@@ -7,17 +7,17 @@
       <Creatives>
         <Creative id="1" sequence="1">
           <Linear skipoffset="00:00:05">
-            <Duration>00:00:30</Duration>
+            <Duration>00:00:25</Duration>
             <VideoClicks>
               <ClickThrough><![CDATA[ https://example.com ]]></ClickThrough>
             </VideoClicks>
             <MediaFiles>
               <MediaFile
                 delivery="progressive"
-                type="video/mp4"
+                type="video/quicktime"
                 scalable="true"
                 maintainAspectRatio="true"
-                width="1920"
+                width="1900"
                 height="1080">
                 <![CDATA[ https://ads-manager-creatives-qa.s3.amazonaws.com/uploads/5b5af2c8-61f1-4cff-8aef-3f8cd11d3204.mov ]]>
               </MediaFile>
