@@ -7,7 +7,7 @@
       <Creatives>
         <Creative id="1" sequence="1">
           <Linear skipoffset="00:00:05">
-            <Duration>00:00:30</Duration>
+            <Duration>00:00:20</Duration>
             <VideoClicks>
               <ClickThrough><![CDATA[ https://example.com ]]></ClickThrough>
             </VideoClicks>
