@@ -12,9 +12,16 @@
               <ClickThrough><![CDATA[ https://example.com ]]></ClickThrough>
             </VideoClicks>
             <MediaFiles>
-              <MediaFile delivery="progressive" type="video/mp4" width="1920" height="1080" scalable="true" maintainAspectRatio="true">
+              <MediaFile
+                delivery="progressive"
+                type="video/mp4"
+                scalable="true"
+                maintainAspectRatio="true"
+                width="1920"
+                height="1080">
                 <![CDATA[ https://ads-manager-creatives-qa.s3.amazonaws.com/uploads/e18108ad-41fa-45ca-8a2d-c6a94e0b4d20.mp4 ]]>
               </MediaFile>
+
             </MediaFiles>
           </Linear>
         </Creative>
@@ -25,10 +32,15 @@
               <ClickThrough><![CDATA[ https://example.com ]]></ClickThrough>
             </VideoClicks>
             <MediaFiles>
-              <MediaFile delivery="progressive" type="video/mp4" width="1920" height="1080" scalable="true" maintainAspectRatio="true">
-                <![CDATA[ https://ads-manager-creatives-qa.s3.amazonaws.com/uploads/OTHER-15s-clip.mp4 ]]>
+              <MediaFile
+                delivery="progressive"
+                type="video/mp4"
+                scalable="true"
+                maintainAspectRatio="true"
+                width="1920"
+                height="1080">
+                <![CDATA[ https://ads-manager-creatives-qa.s3.amazonaws.com/uploads/e18108ad-41fa-45ca-8a2d-c6a94e0b4d20.mp4 ]]>
               </MediaFile>
-            </MediaFiles>
           </Linear>
         </Creative>
       </Creatives>
