@@ -1,0 +1,30 @@
+<VAST version="3.0">
+  <Ad id="1">
+    <InLine>
+      <AdSystem>Ad System</AdSystem>
+      <AdTitle><![CDATA[ Demo Ad ]]></AdTitle>
+      <Impression><![CDATA[ ]]></Impression>
+      <Creatives>
+        <Creative id="1" sequence="1">
+          <Linear skipoffset="00:00:05">
+            <Duration>00:00:15</Duration>
+            <VideoClicks>
+              <ClickThrough><![CDATA[ https://example.com ]]></ClickThrough>
+            </VideoClicks>
+            <MediaFiles>
+              <MediaFile
+                delivery="progressive"
+                type="video/mp4"
+                scalable="true"
+                maintainAspectRatio="true"
+                width="1920"
+                height="1080">
+                <![CDATA[ https://ads-manager-creatives-qa.s3.amazonaws.com/uploads/e18108ad-41fa-45ca-8a2d-c6a94e0b4d20.mp4 ]]>
+              </MediaFile>
+            </MediaFiles>
+          </Linear>
+        </Creative>
+      </Creatives>
+    </InLine>
+  </Ad>
+</VAST>
