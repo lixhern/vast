@@ -1,7 +1,7 @@
 <VAST version="3.0">
   <Ad id="1">
     <InLine>
-      <AdSystem>Ad System</AdSystem>
+      <AdSystem>Ad System New Name</AdSystem>
       <AdTitle><![CDATA[ Demo Ad ]]></AdTitle>
       <Impression><![CDATA[ ]]></Impression>
       <Creatives>
@@ -9,7 +9,7 @@
           <Linear skipoffset="00:00:05">
             <Duration>00:00:15</Duration>
             <VideoClicks>
-              <ClickThrough><![CDATA[ https://example1.com ]]></ClickThrough>
+              <ClickThrough><![CDATA[ https://www.apple.com ]]></ClickThrough>
             </VideoClicks>
             <MediaFiles>
               <MediaFile
