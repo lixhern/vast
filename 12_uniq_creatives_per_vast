@@ -1,0 +1,42 @@
+<VAST version="3.0">
+  <Ad id="A1">
+    <InLine>
+      <AdSystem>Test</AdSystem><AdTitle><![CDATA[ A1 ]]></AdTitle><Impression><![CDATA[ ]]></Impression>
+      <Creatives>
+        <Creative id="C1"><Linear><Duration>00:00:15</Duration><VideoClicks><ClickThrough><![CDATA[ https://example.com ]]></ClickThrough></VideoClicks><MediaFiles><MediaFile delivery="progressive" type="video/mp4" width="1920" height="1080"><![CDATA[ https://ads-manager-creatives-qa.s3.amazonaws.com/uploads/e18108ad-41fa-45ca-8a2d-c6a94e0b4d20.mp4 ]]></MediaFile></MediaFiles></Linear></Creative>
+        <Creative id="C2"><Linear><Duration>00:00:15</Duration><VideoClicks><ClickThrough><![CDATA[ https://example.com ]]></ClickThrough></VideoClicks><MediaFiles><MediaFile delivery="progressive" type="video/mp4" width="1920" height="1080"><![CDATA[ https://ads-manager-creatives-qa.s3.amazonaws.com/uploads/e18108ad-41fa-45ca-8a2d-c6a94e0b4d20.mp4 ]]></MediaFile></MediaFiles></Linear></Creative>
+        <Creative id="C3"><Linear><Duration>00:00:15</Duration><VideoClicks><ClickThrough><![CDATA[ https://example.com ]]></ClickThrough></VideoClicks><MediaFiles><MediaFile delivery="progressive" type="video/mp4" width="1920" height="1080"><![CDATA[ https://ads-manager-creatives-qa.s3.amazonaws.com/uploads/e18108ad-41fa-45ca-8a2d-c6a94e0b4d20.mp4 ]]></MediaFile></MediaFiles></Linear></Creative>
+      </Creatives>
+    </InLine>
+  </Ad>
+  <Ad id="A2">
+    <InLine>
+      <AdSystem>Test</AdSystem><AdTitle><![CDATA[ A2 ]]></AdTitle><Impression><![CDATA[ ]]></Impression>
+      <Creatives>
+        <Creative id="C4"><Linear><Duration>00:00:15</Duration><VideoClicks><ClickThrough><![CDATA[ https://example.com ]]></ClickThrough></VideoClicks><MediaFiles><MediaFile delivery="progressive" type="video/mp4" width="1920" height="1080"><![CDATA[ https://ads-manager-creatives-qa.s3.amazonaws.com/uploads/e18108ad-41fa-45ca-8a2d-c6a94e0b4d20.mp4 ]]></MediaFile></MediaFiles></Linear></Creative>
+        <Creative id="C5"><Linear><Duration>00:00:15</Duration><VideoClicks><ClickThrough><![CDATA[ https://example.com ]]></ClickThrough></VideoClicks><MediaFiles><MediaFile delivery="progressive" type="video/mp4" width="1920" height="1080"><![CDATA[ https://ads-manager-creatives-qa.s3.amazonaws.com/uploads/e18108ad-41fa-45ca-8a2d-c6a94e0b4d20.mp4 ]]></MediaFile></MediaFiles></Linear></Creative>
+        <Creative id="C6"><Linear><Duration>00:00:15</Duration><VideoClicks><ClickThrough><![CDATA[ https://example.com ]]></ClickThrough></VideoClicks><MediaFiles><MediaFile delivery="progressive" type="video/mp4" width="1920" height="1080"><![CDATA[ https://ads-manager-creatives-qa.s3.amazonaws.com/uploads/e18108ad-41fa-45ca-8a2d-c6a94e0b4d20.mp4 ]]></MediaFile></MediaFiles></Linear></Creative>
+      </Creatives>
+    </InLine>
+  </Ad>
+  <Ad id="A3">
+    <InLine>
+      <AdSystem>Test</AdSystem><AdTitle><![CDATA[ A3 ]]></AdTitle><Impression><![CDATA[ ]]></Impression>
+      <Creatives>
+        <Creative id="C7"><Linear><Duration>00:00:15</Duration><VideoClicks><ClickThrough><![CDATA[ https://example.com ]]></ClickThrough></VideoClicks><MediaFiles><MediaFile delivery="progressive" type="video/mp4" width="1920" height="1080"><![CDATA[ https://ads-manager-creatives-qa.s3.amazonaws.com/uploads/e18108ad-41fa-45ca-8a2d-c6a94e0b4d20.mp4 ]]></MediaFile></MediaFiles></Linear></Creative>
+        <Creative id="C8"><Linear><Duration>00:00:15</Duration><VideoClicks><ClickThrough><![CDATA[ https://example.com ]]></ClickThrough></VideoClicks><MediaFiles><MediaFile delivery="progressive" type="video/mp4" width="1920" height="1080"><![CDATA[ https://ads-manager-creatives-qa.s3.amazonaws.com/uploads/e18108ad-41fa-45ca-8a2d-c6a94e0b4d20.mp4 ]]></MediaFile></MediaFiles></Linear></Creative>
+        <Creative id="C9"><Linear><Duration>00:00:15</Duration><VideoClicks><ClickThrough><![CDATA[ https://example.com ]]></ClickThrough></VideoClicks><MediaFiles><MediaFile delivery="progressive" type="video/mp4" width="1920" height="1080"><![CDATA[ https://ads-manager-creatives-qa.s3.amazonaws.com/uploads/e18108ad-41fa-45ca-8a2d-c6a94e0b4d20.mp4 ]]></MediaFile></MediaFiles></Linear></Creative>
+      </Creatives>
+    </InLine>
+  </Ad>
+  <Ad id="A4">
+    <InLine>
+      <AdSystem>Test</AdSystem><AdTitle><![CDATA[ A4 ]]></AdTitle><Impression><![CDATA[ ]]></Impression>
+      <Creatives>
+        <Creative id="C10"><Linear><Duration>00:00:15</Duration><VideoClicks><ClickThrough><![CDATA[ https://example.com ]]></ClickThrough></VideoClicks><MediaFiles><MediaFile delivery="progressive" type="video/mp4" width="1920" height="1080"><![CDATA[ https://ads-manager-creatives-qa.s3.amazonaws.com/uploads/e18108ad-41fa-45ca-8a2d-c6a94e0b4d20.mp4 ]]></MediaFile></MediaFiles></Linear></Creative>
+        <Creative id="C11"><Linear><Duration>00:00:15</Duration><VideoClicks><ClickThrough><![CDATA[ https://example.com ]]></ClickThrough></VideoClicks><MediaFiles><MediaFile delivery="progressive" type="video/mp4" width="1920" height="1080"><![CDATA[ https://ads-manager-creatives-qa.s3.amazonaws.com/uploads/e18108ad-41fa-45ca-8a2d-c6a94e0b4d20.mp4 ]]></MediaFile></MediaFiles></Linear></Creative>
+        <Creative id="C12"><Linear><Duration>00:00:15</Duration><VideoClicks><ClickThrough><![CDATA[ https://example.com ]]></ClickThrough></VideoClicks><MediaFiles><MediaFile delivery="progressive" type="video/mp4" width="1920" height="1080"><![CDATA[ https://ads-manager-creatives-qa.s3.amazonaws.com/uploads/e18108ad-41fa-45ca-8a2d-c6a94e0b4d20.mp4 ]]></MediaFile></MediaFiles></Linear></Creative>
+      </Creatives>
+    </InLine>
+  </Ad>
+</VAST>
