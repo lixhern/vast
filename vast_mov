@@ -4,19 +4,6 @@
       <AdSystem>Ad System</AdSystem>
       <AdTitle><![CDATA[ Demo Ad ]]></AdTitle>
       <Impression><![CDATA[ ]]></Impression>
- <AdVerifications>
-                <Verification vendor="doubleverify.com-omid">
-                    <JavaScriptResource apiFramework="omid" browserOptional="true">
-                        <![CDATA[https://cdn.doubleverify.com/dvbm.js#vendor_key=doubleverify.com-omid]]>
-                    </JavaScriptResource>
-                    <TrackingEvents>
-                        <Tracking event="verificationNotExecuted">
-                            <![CDATA[https://tpsc-video-uw.doubleverify.com/visit.jpg?verr=REASON]]>
-                        </Tracking>
-                    </TrackingEvents>
-                    <VerificationParameters><![CDATA[tagtype=video&msrapi=jsOmid]]></VerificationParameters>
-                </Verification>
-            </AdVerifications>
       <Creatives>
         <Creative id="1" sequence="1">
           <Linear skipoffset="00:00:05">
