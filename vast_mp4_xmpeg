@@ -14,7 +14,7 @@
             <MediaFiles>
               <MediaFile
                 delivery="progressive"
-                type="video/mp4"
+                type="application/x-mpegURL"
                 scalable="true"
                 maintainAspectRatio="true"
                 width="1920"
@@ -24,7 +24,7 @@
             <MediaFiles>
               <MediaFile
                 delivery="progressive"
-                type="video/mp4"
+                type="application/x-mpegURL"
                 scalable="true"
                 maintainAspectRatio="true"
                 width="1920"
