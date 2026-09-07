@@ -21,16 +21,6 @@
                 height="1080">
                 <![CDATA[ https://ads-manager-creatives-qa.s3.amazonaws.com/uploads/e18108ad-41fa-45ca-8a2d-c6a94e0b4d20.mp4 ]]>
               </MediaFile>
-
-            </MediaFiles>
-          </Linear>
-        </Creative>
-        <Creative id="200" sequence="2">
-          <Linear skipoffset="00:00:05">
-            <Duration>00:00:15</Duration>
-            <VideoClicks>
-              <ClickThrough><![CDATA[ https://example.com ]]></ClickThrough>
-            </VideoClicks>
             <MediaFiles>
               <MediaFile
                 delivery="progressive"
@@ -41,6 +31,7 @@
                 height="1080">
                 <![CDATA[ https://ads-manager-creatives-qa.s3.amazonaws.com/uploads/e18108ad-41fa-45ca-8a2d-c6a94e0b4d20.mp4 ]]>
               </MediaFile>
+            </MediaFiles>
           </Linear>
         </Creative>
       </Creatives>
