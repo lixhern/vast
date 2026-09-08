@@ -14,7 +14,7 @@
                             </MediaFile>
                         </MediaFiles>
                         <VideoClicks>
-                            <ClickThrough><![CDATA[https://advertiser.example.com/landing]]></ClickThrough>
+                            <ClickThrough><![CDATA[https://example.com]]></ClickThrough>
                         </VideoClicks>
                     </Linear>
                 </Creative>
