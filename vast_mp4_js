@@ -11,7 +11,7 @@
                     </JavaScriptResource>
                     <TrackingEvents>
                         <Tracking event="verificationNotExecuted">
-                            <![CDATA[https://tpsc-video-uw.doubleverify.com/visit.jpg?verr=REASON]]>
+                            <![CDATA[https://tpsc-video-uw.doubleverify.com/visit.jpg?verr=REASONffff]]>
                         </Tracking>
                     </TrackingEvents>
                     <VerificationParameters><![CDATA[tagtype=video&msrapi=jsOmid]]></VerificationParameters>
