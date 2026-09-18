@@ -7,7 +7,7 @@
             <AdVerifications>
                 <Verification vendor="doubleverify.com-omid">
                     <JavaScriptResource apiFramework="omid" browserOptional="true">
-                        <![CDATA[https://cdn.doubleverify.com/dvbm.js#vendor_key=doublevy.com-oadfd]]>
+                        <![CDATA[https://cdn.doubleverify.com/dvbm.js#vendor_key=dosgdsdgsd-oadfd]]>
                     </JavaScriptResource>
                     <TrackingEvents>
                         <Tracking event="verificationNotExecuted">
@@ -20,7 +20,7 @@
             <Creatives>
                 <Creative id="creative-1">
                     <Linear>
-                        <Duration>00:00:15</Duration>
+                        <Duration>00:00:19</Duration>
                         <MediaFiles>
                             <MediaFile delivery="progressive" type="video/mp4" width="1920" height="1080" bitrate="2000">
                                 <![CDATA[https://ads-manager-creatives-qa.s3.amazonaws.com/uploads/e18108ad-41fa-45ca-8a2d-c6a94e0b4d20.mp4]]>
